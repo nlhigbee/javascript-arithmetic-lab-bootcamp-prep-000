@@ -11,8 +11,8 @@ function divide(a,b){
   return a/b
 }
 function inc(n) {
-  return `529`
+  return `70`
 }
 function dec(n){
-  return `not defined`
+return  `569`
 }
